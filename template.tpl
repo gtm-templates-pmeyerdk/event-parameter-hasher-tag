@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Event Parameter Hasher",
+  "categories": ["TAG_MANAGEMENT", "UTILITY"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
