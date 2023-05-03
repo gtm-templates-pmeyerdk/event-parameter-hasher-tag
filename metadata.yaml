@@ -2,7 +2,6 @@ homepage: "https://pmeyer.dk/"
 documentation: "https://pmeyer.dk/google-tag-manager/event-parameter-hasher-tag/"
 versions:
   # Latest version
-  - sha: 212d069eeca6cea1d07ceda51518ee0571ca9bbc
+  - sha: b0964158059717c7e1a346fd5224d888c0d49c61
     changeNotes: Initial template commit
   # Older versions
-
